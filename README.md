@@ -1,0 +1,1 @@
+This mini-project will be the result of deconstructing an existing web page and rebuilding of it.
