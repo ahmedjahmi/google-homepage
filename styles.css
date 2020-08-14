@@ -1,0 +1,29 @@
+.main {
+  margin: 0 auto;
+  min-width: 980px;
+}
+
+.logo {
+  background-image: url("https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 92px;
+}
+
+.form-container {
+  position: relative;
+  margin: 0 auto;
+  padding-top: 6px;
+  width: 484px;
+}
+
+form {
+  display: block;
+  margin: 0 auto;
+  width: 833px;
+}
+
+.search-bar {
+  display: block;
+  margin: 0 auto;
+}
